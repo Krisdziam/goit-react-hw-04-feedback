@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.02f92aa0.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.c3fac781.js",
+    "static/media/zdaniya-goroda-parizha-i-vid-na-eyfelevu-bashnyu-oboi-2048x1536_26.jpg": "/goit-react-hw-04-feedback/static/media/zdaniya-goroda-parizha-i-vid-na-eyfelevu-bashnyu-oboi-2048x1536_26.543366b3c1f71425a61e.jpg",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.02f92aa0.css.map": "/goit-react-hw-04-feedback/static/css/main.02f92aa0.css.map",
+    "main.c3fac781.js.map": "/goit-react-hw-04-feedback/static/js/main.c3fac781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f92aa0.css",
+    "static/js/main.c3fac781.js"
+  ]
+}
